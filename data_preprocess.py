@@ -1,7 +1,8 @@
 ## This is used to prepare data set
 ## Part 1 : Missing counter and interpolate
 ## Part 2 : Mda8 and Daily mean
-## Part 3 : Time label (Weekly/Monthly/yearly)
+
+#!/usr/bin/env bash
 
 import numpy as np
 import pandas as pd
