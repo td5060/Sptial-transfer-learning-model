@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 import time
 import copy
 import numpy as np
