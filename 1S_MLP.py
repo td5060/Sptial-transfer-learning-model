@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 import os
 import time
 import copy
@@ -19,10 +21,10 @@ from sklearn.inspection import permutation_importance
 
 
 # # Path seeting
-os.chdir('C:/Users/ADMIN/Desktop/STTL')
+os.chdir('Your dir')
 
 # # Read Data
-data = pd.read_csv('o3_5_year_mda8.csv')
+data = pd.read_csv('file name')
 # # print(df.head)
 values = data.values
 
