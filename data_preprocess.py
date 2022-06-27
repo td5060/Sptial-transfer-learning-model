@@ -2,7 +2,7 @@
 ## Part 1 : Missing counter and interpolate
 ## Part 2 : Mda8 and Daily mean
 
-#!/usr/bin/env bash
+#!/usr/bin/env python
 
 import numpy as np
 import pandas as pd
